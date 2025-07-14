@@ -1,0 +1,17 @@
+    /* style.css - Dark Mode */
+
+    body {
+        font-family: Arial, sans-serif; /* Changes the font for the entire page */
+        background-color: #1a1a1a; /* Dark gray background for dark mode */
+        color: #f0f0f0; /* Light gray text color for dark mode */
+        margin: 20px; /* Add some margin around the body content */
+    }
+
+    h1 {
+        color: #87ceeb; /* A lighter blue for the main heading, stands out on dark background */
+        text-align: center; /* Centers the heading */
+    }
+
+    p {
+        line-height: 1.6; /* Improves readability of paragraphs */
+    }
